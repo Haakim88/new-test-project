@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var checkAmount = 0.00
+    @State private var checkAmount = 10.00
     @State private var numberOfPeople = 0
     @State private var tipPercentage = 1
     
